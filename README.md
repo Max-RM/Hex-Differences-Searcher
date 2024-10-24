@@ -1,0 +1,1 @@
+A tool for comparing binary files and getting an output log with modified Hex offsets and it's bytes, as in WinHex, but multiplatform. Developed by ArtemSU - 24.10.2024. ©️ TNT ENTERTAINMENT inc
